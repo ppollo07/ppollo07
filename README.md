@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ariel%20Porporatto&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Engineering%20Manager%20%C2%B7%20Commerce%20%26%20Marketplaces%20%C2%B7%20AI-native%20teams&descAlignY=60&descSize=16" width="100%" alt="Ariel Porporatto — Engineering Manager" />
-
 <p align="center">
   <a href="https://www.linkedin.com/in/arielporporatto/"><img src="https://img.shields.io/badge/LinkedIn-arielporporatto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@ppollo07"><img src="https://img.shields.io/badge/Medium-@ppollo07-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
