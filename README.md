@@ -41,7 +41,7 @@ I'm a management-first, hands-on leader: I partner with Product on discovery, ca
 ## ✍️ Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-- [El ego no vacía la empresa. La filtra.](https://medium.com/@ppollo07)
+- [El ego no vacía la empresa. La filtra.](https://medium.com/@ppollo07/el-ego-no-vac%C3%ADa-la-empresa-la-filtra-e4b0fd770cc7?source=rss-7c1a5a92fa6c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More on [Medium](https://medium.com/@ppollo07)
